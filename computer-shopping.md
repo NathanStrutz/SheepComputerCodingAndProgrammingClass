@@ -6,14 +6,14 @@ Set a budget (yes, computers are expensive, often hundreds of dollars, I wish th
 
 ## Tax Free Weekend
 
-South Carolina's Tax-Free Weekend is August 2-4, 2024. Make sure to take avantage of this benefit!
+South Carolina's Tax-Free Weekend is August 2-4, 2024. Make sure to take advantage of this benefit!
 
 ## Computer Components
 
-While computers are inherently technical, shopping for computers feels 10x moreso. Shopping for a compuer is a learning experience. You want a computer that will last, but not one you'll have to pay too much for. So here's my computer components buying guide:
+While computers are inherently technical, shopping for computers feels 10x more technical. Shopping for a computer is a learning experience. You want a computer that will last, but not one you'll have to pay too much for. So here's my computer components buying guide:
 
 -   **CPU**, the primary part that determines the computer's overall speed
-    -   Choose Intel or AMD which are both great. Avoid Mediatek, Qualcomm, or ARM processors
+    -   Choose Intel or AMD which are both great. Avoid MediaTek, Qualcomm, or ARM processors
     -   For Intel, avoid the old Pentium and Celeron, go with i3, i5, i7 (respectively: slow, medium, fast; also: cheap, medium, expensive). Model numbers start with the generation, and the current generation is 14 - e.g. `i3-14100F`. Anything down to 10th gen is still a good choice.
     -   For AMD CPUs, go with the Ryzen 3, 5, and 7 lineup. AMD CPUs have 4-digit numbers (then usually some letters), and the first number denotes the generation. You don't want to go older than the 5000 series (5th generation), e.g. `5300U`.
 -   **RAM (Memory)**, determines how many things the computer can do at the same time
