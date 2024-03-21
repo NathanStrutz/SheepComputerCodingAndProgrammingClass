@@ -10,4 +10,8 @@ SHEEP breaks for the holidays - Thanksgiving through New Year's. We also have a 
 
 # Where
 
-Computer Fundamentals is taught at [S.H.E.E.P.](https://sheep.education/), at the campus in Summerville, SC.
+SHEEP Computer Coding & Programming Class is taught at [S.H.E.E.P.](https://sheep.education/), at the campus in Summerville, SC.
+
+# Who
+
+This class is available to registered students. Register at [sheep.education](https://sheep.education/). Students must be 15 or older and in 10th grade or later. See the [note about age restrictions](age-restriction) if you want to register but are below the limit.

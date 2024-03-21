@@ -1,5 +1,5 @@
 ---
-title: Computers for Computer Fundamentals
+title: Computers for Computer Coding and Programming
 ---
 
 # Student Computers
