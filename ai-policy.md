@@ -26,11 +26,11 @@ For example, imagine a project where we are building a dice simulator. In class,
 
 ```js
 class Die {
-	constructor(size) {
-		this.size = size;
+	constructor(faces) {
+		this.faces = faces;
 	}
 	roll() {
-		return Math.floor(Math.random() * this.size) + 1;
+		return Math.floor(Math.random() * this.faces) + 1;
 	}
 }
 let rollMyDice = function (dice) {
