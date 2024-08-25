@@ -21,7 +21,7 @@ Some common issues with bringing a laptop to school are the size and weight in a
 
 ## What Computers Will Work?
 
-Our class strongly prefers that you use Windows-based notebook PCs. You can use a Chromebook, but it's more difficult (see below). You can use a Macbook, but with huge caveats (see below). And no, tablets and phones won't work.
+Our class strongly prefers that you use Windows-based notebook PCs. You can use a Chromebook, but it's more difficult (see below). You can use a MacBook, but with huge caveats (see below). And no, tablets and phones won't work.
 
 **All laptops need at least 8 GB of RAM**.
 
@@ -57,7 +57,7 @@ To simplify all of this math, you can shop for a "Chromebook Plus," which is a n
 
 When you use a Chromebook, in order to run the industry standard software we use such as VS Code and Git, your student will have to install Linux and use the Terminal to install programs. I have the commands to type, but if this makes you or your student uncomfortable, then you should reconsider using a Windows device.
 
-### MacOS, Macbooks, Apple Products
+### MacOS, MacBooks, Apple Products
 
 Macs that can run the current latest version of OS X will work in our class, however I want to warn you that this is a bad idea.
 
@@ -65,9 +65,9 @@ Macs that can run the current latest version of OS X will work in our class, how
 
 The short story is that I don't use a Mac. I see them as somewhat fringe, extravagant, niche computing devices still. There's also a much longer story I can tell about overpriced hardware and closed ecosystems, but it really comes down to the fact that I can't support or troubleshoot any problems on a Mac.
 
-If you are insistent on using Apple devices, have you considered installing Windows on your Macbook?
+If you are insistent on using Apple devices, have you considered installing Windows on your MacBook? Look into Apple's Boot Camp Assistant.
 
-If you send your child to Coding & Programming with a Mac, please work with them first to make sure they understand the OS and how to use all aspects of it.
+If you send your child to Coding & Programming with a Mac, please work with them first to make sure they understand the OS and how to use all aspects of it. Also please update the OS to the latest version!
 
 ## What Software Will Be Needed?
 
