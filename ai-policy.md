@@ -8,61 +8,48 @@
 
 ## Can I use AI?
 
-**Yes and No**. The problem with Programming and AI is that we live somewhere between the absolutes.
+**Yes and No**. Programming and AI are intertwined.
 
 ### Use AI
 
-You can use AI to answer questions about code, get code snippets, understand what you are doing, and generally help you. Give it the text from your errors and ask why it is happening. Use AI to generate images for projects and presentations. Ask AI to give you hints and creative ideas, or help troubleshoot a problem.
+Please use AI chat applications like ChatGPT, Gemini, or others, to:
+
+- Troubleshoot and debug a challenging error when you are stuck
+  - Give it your error and ask why it happens
+  - Use AI to learn, not to do it for you
+- Generate static content
+  - Generate images and text for a website
+- Create ideas
 
 ### Do Not Use AI
 
-Do not use AI to build applications for you or complete your homework.
+Do not use AI to:
 
-This requires further explanation.
+- Build applications for you
+- Complete your homework
+- Do the hard parts
 
-We usually start every program in class, together. While you may ask AI to help you with problems or ideas, we require that you use our code from class.
-
-For example, imagine a project where we are building a dice simulator. In class, we come up with this code:
-
-```js
-class Die {
-	constructor(faces) {
-		this.faces = faces;
-	}
-	roll() {
-		return Math.floor(Math.random() * this.faces) + 1;
-	}
-}
-let rollMyDice = function (dice) {
-	return dice.map((die) => die.roll());
-};
-let myDice = [new Die(6), new Die(12)];
-console.log(rollMyDice(myDice));
-```
-
-Students will be asked to build on this, perhaps to make a rendition of the classic game Yahtzee. If a student asks an AI to complete the code or write a game of Yahtzee for them, It's usually obvious that they used AI. If we see the markers, we will assume 100% of your code was written by AI.
-
----
-
-Programming today is in a difficult place with AI. On one hand, it seems as though AI can replace all of the thinking that a programmer may need. On the other hand, our class requires that students use their head and their hands to do the work because we need them to learn the code for their personal mental growth.
-
-While an AI chatbot may understand how to finish assignments in our class, a professional career in IT requires that the _human_ understands.
+You must do the hard parts yourself. This is the only way people can learn.
 
 ## Why not?
 
-Using AI to complete assignments means the student does not learn the material, so in a sense, this is a form of cheating, and it steals the growth that a student should experience.
+Using AI to complete assignments means the you do not learn to program, so in a sense, this is cheating. Because we home school, it's really stealing the growth that you should experience from yourself, and it's cheating your parents who paid for this course, and it's cheating your teacher out of a grade. In the class, other students who suffered through the difficult task of learning may end up with an inferior end-result, even though they will clearly be more successful in the real world, so in a sense it cheats them as well. And finally, this being a Christian school, I'll add that violating this rule is sin.
 
-_Computer Coding and Programming_ is a challenging class, meant to force a student's brain to grow in new ways. This produces long-term change, increasing their intelligence for life, and teaching them how to think logically. Using an AI assistant to get past a hard project takes away any growth they might have.
+_Computer Coding and Programming_ is a challenging class, meant to force a student's brain to grow in new ways. This produces long-term change, increasing intelligence for life, and teaching the students how to think logically. Using an AI assistant to get past a hard project takes away any growth they might earn.
 
 ## What if I get stuck?
 
-I will mention this about 100 times throughout the school year: **Ask Me** (Mr. Nathan). I have the answer to every coding problem you can come up with. I've been coding since before you were born. I'm an expert. I want to solve your problems. I want to help you succeed. I don't want you to be frustrated.
+I will mention this about 100 times throughout the school year: **Ask Me** (Mr. Nathan). I have the answer to every coding problem you can come up with. I've been coding since before you were born. _I'm an expert._ I want to solve your problems. I want to help you succeed. I don't want you to be frustrated. I only want you to get a good grade and succeed at this class, and at life.
 
--   [How to ask for help](how-to-ask-for-help)
+- [How to ask for help](how-to-ask-for-help)
 
 ## What if I use AI to do my homework anyway?
 
-Please attribute which AI was used when turning in your code, with a percentage of how much was written by the AI assistant. Your code will be marked down by half of that value. The percentage may be calculated by amount of code, or by complexity of code, on the teacher's discretion.
+I waver between giving zeroes for insulting my ability to detect that the code was not written by a student, and wanting to give as much grace as possible.
+
+##### Justice _and_ mercy.
+
+Please attribute which AI was used when turning in your code, and a percentage of how much was written by the AI assistant. Your code will be marked down by half of that value. The percentage may be calculated by amount of code, or by complexity of code, on the teacher's discretion.
 
 In a 100 point assignment, if 100% of your code was written by AI, your maximum point value is 50. This is better than zero points, but is still a failing grade.
 

@@ -10,20 +10,24 @@ Coding & Programming has 4 major units. Every week has a participation score (6 
 
 ## Unit 1: Intro to Coding & Web Development
 
--   Begin with coding skills
--   Project: Build a real website for an imaginary business
+- Begin with coding skills
+- Project: Build a real website for an imaginary business
 
 ### Unit 2: Intro to Programming & JavaScript
 
--   Learn the basics of JavaScript
--   Project: Holiday reading and code puzzles
+- Learn the basics of JavaScript
+- Project: Holiday reading and code puzzles
+
+> _(Unit 2 ends a couple weeks into the new year)_
 
 ### Unit 3: Text Games
 
--   Learn about data structures
--   Project: Make a card game
+- Learn about data structures
+- Project: Make a card game
+
+> _(Unit 3 is likely to change this year to make it more fun)_
 
 ### Unit 4: Drawing & Interactive Animation
 
--   Play with interactive drawing and animation through the gold standard Processing library, p5.js
--   Remake a classic, fully interactive animated video game (which one is a secret, but I can tell you if you really need to know)
+- Play with interactive drawing and animation through the gold standard Processing library, p5.js
+- Remake a classic, fully interactive animated video game (which one is a secret, but I can tell you if you really need to know)

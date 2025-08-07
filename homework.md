@@ -12,14 +12,14 @@ Some of the homework will be assigned typing practice. We expect that new studen
 
 ##### Why teach typing?
 
--   Faster typing speed helps all other high school and college homework complete faster
--   Typing is a professional skill that everyone should have, especially highly paid office workers
--   Typing proficiency produces improved test scores on computerized tests
--   It creates more confidence with a computer and less frustration
+- Faster typing speed helps all other high school and college homework complete faster
+- Typing is a professional skill that everyone should have, especially highly paid office workers
+- Typing proficiency produces improved test scores on computerized tests
+- It creates more confidence with a computer and less frustration
 
 ### Programming Puzzles
 
-Most of the work we assign is in the form of actual coding and programming assignments. Some of these will be completing a programming puzzle or working on a big project like a website or a game. Some of these may take minutes if there's a strong grasp of what's happening. Some of them may take hours of frustration.
+Most of the work we assign is in the form of actual coding and programming assignments. Some of these will be completing a programming puzzle or working on a big project like a website or a game. Some of these may take minutes if there's a strong grasp of what's happening. Some of them may take hours of difficult thinking, trial, and error.
 
 ##### Some of these assignments are hard!
 
@@ -36,6 +36,15 @@ Yes! And we can do hard things. It's challenges like this that cause our brains 
 4. As a last resort, try explaining the problem to an AI chat assistant. This sometimes helps.
 
 5. Show any work or progress you've made. Don't erase, comment your code out and try again. After an hour or 4, just turn in what you have. 5-10 points is way better than a zero, and I tend to grade on effort, not necessarily on results.
+
+### Projects
+
+Quarterly, we have a large project:
+
+1. Make a website
+2. Read a book and do all the programming practice assignments
+3. Make a game
+4. Make a game
 
 ## Using Technology Responsibly
 
@@ -65,9 +74,9 @@ Probably about 100 lines of code. Any more and it's not even your program anymor
 
 AI Chat (like Chat GPT, Microsoft Copilot, Google Gemini, etc.) is a new technology that can answer all kinds of general questions. It is fully capable of writing good code, thanks to it's large language model (LLM) that was fed a heavy diet of general knowledge, technical documentation, and code. I love this technology for some things:
 
--   Writing filler copy for a website - the assignment is the website, not the content, and I encourage students to use it for this
--   Generating images, especially when the task is not the images, but again, something like making a website
--   Answering questions about how to use a specific feature, or how to modify my code to accomplish a specific task
+- Writing filler copy for a website - the assignment is the website, not the content, and I encourage students to use it for this
+- Generating images, especially when the task is not the images, but again, something like making a website
+- Answering questions about how to use a specific feature, or how to modify my code to accomplish a specific task
 
 This last point is important. It has the knowledge to help, but if you let it, AI can also write the entire assignment. And this is where you have to be careful. Often we will start with some context that the AI chatbot won't have. Then the application that's generated is wrong.
 

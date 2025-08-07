@@ -14,8 +14,8 @@ Some common issues with bringing a laptop to school are the size and weight in a
 
 2. Buy a smaller, especially thinner, lightweight device that your student can carry more easily. While there is a higher price for sub-notebook computers, there is a lower price for a smaller screen. Look for a good compromise [when you go shopping](computer-shopping).
 
-    - Most laptops weight 4 to 6 pounds, but range from 2 to 8
-    - A 17" screen is extremely large and requires an oversized backpack or case; 15" is average, 12" is often too small
+   - Most laptops weight 4 to 6 pounds, but range from 2 to 8
+   - A 17" screen is extremely large and requires an oversized backpack or case; 15" is average, 12" is often too small
 
 3. Add paint or stickers to make sure your computer is easily distinguishable from others. This makes it harder for someone to walk off with it.
 

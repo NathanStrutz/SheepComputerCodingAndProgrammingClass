@@ -3,14 +3,15 @@ title: About Nathan & Alanda
 ---
 
 <script setup>
-    import HowManyYearsAgo from "./components/HowManyYearsAgo.vue";
+    import HowManyYearsAgo from "/components/HowManyYearsAgo.vue";
+    import YearsSince from "/components/YearsSince.vue";
 </script>
 
 # The Strutzes
 
 _It's pronounced "struts" like a car part. When plural, because it ends in `z`, it's "struts'es"_
 
-Nathan & Alanda have been married for over <how-many-years-ago :since="2001" /> years, and have homeschooled their 4 children since birth. This year is their <how-many-years-ago :since="2008" :ordinal="true" /> consecutive year teaching their own children.
+Nathan & Alanda have been married for over <YearsSince since="11/25/2000" /> years, and have homeschooled their 4 children since birth. This year is their <HowManyYearsAgo since="2008" :ordinal="true" /> consecutive year teaching their own children.
 
 Nathan and Alanda are deacons at Grace Christian Fellowship in Ladson. They had a 20 year run teaching bible lessons to middle school students (some say they still haven't quit). You'll often find them volunteering in the nursery, teaching a bible study, or bringing a dish to a friend in need.
 
@@ -18,7 +19,7 @@ Nathan and Alanda are deacons at Grace Christian Fellowship in Ladson. They had 
 
 _Mr. Strutz, or Mr. Nathan_
 
-<img src="/images/nathan.jpg" alt="Nathan" class="profile-photo"> Nathan was born at a young age, and quickly thereafter found Jesus and computers, and has spent a lifetime connected to both. Nathan has worked in the computing field for over 25 years. Most recently, <how-many-years-ago :since="2007" /> years at Boeing, which moved the Strutz family to the lowcountry just <how-many-years-ago :since="2014" /> short years ago.
+<img src="/images/nathan.jpg" alt="Nathan" class="profile-photo"> Nathan was born at a young age, and quickly thereafter found Jesus and computers, and has spent a lifetime connected to both. Nathan has worked in the computing field for over 25 years. Most recently, <YearsSince since="2007-09-05" /> years at Boeing, which moved the Strutz family to the lowcountry just <YearsSince since="7/1/2014" /> short years ago.
 
 Nathan started teaching _Intro to Coding_ at SHEEP in 2020, which was renamed to _Computer Coding & Programming_ in 2024. He also teaches _[Computer Fundamentals](https://sheepcomputerfundamentalsclass.netlify.app/)_ during 1st Period.
 
@@ -30,9 +31,13 @@ Alanda has spent her professional life in real estate, insurance, and missions, 
 
 In 2016, Alanda started a nonprofit missions organization, [Precious Ones Ministries](https://www.preciousonesministries.org/), which provides hope to people in need through education, nutrition, and bibles!
 
+## Ethan
+
+Ethan Siegal is a freshman at CSU who took our class in 2022 and has been helping ever since. Ethan enjoys Taco Bell, but not beans, and probably prefers Chic-fil-A but that's outside of my budget.
+
 <style type="text/css">
 .profile-photo {
-    float:left; 
-    margin: 5px 10px 15px 0;
+    float:left;
+    margin: 5px 10px 25px 0;
 }
 </style>
