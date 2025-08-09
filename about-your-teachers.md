@@ -3,7 +3,6 @@ title: About Nathan & Alanda
 ---
 
 <script setup>
-    import HowManyYearsAgo from "/components/HowManyYearsAgo.vue";
     import YearsSince from "/components/YearsSince.vue";
 </script>
 
@@ -11,7 +10,7 @@ title: About Nathan & Alanda
 
 _It's pronounced "struts" like a car part. When plural, because it ends in `z`, it's "struts'es"_
 
-Nathan & Alanda have been married for over <YearsSince since="11/25/2000" /> years, and have homeschooled their 4 children since birth. This year is their <HowManyYearsAgo since="2008" :ordinal="true" /> consecutive year teaching their own children.
+Nathan & Alanda have been married for over <YearsSince since="11/25/2000" /> years, and have homeschooled their 4 children since birth. This year is their <YearsSince since="4/15/2008" :ordinal="true" /> consecutive year teaching their own children.
 
 Nathan and Alanda are deacons at Grace Christian Fellowship in Ladson. They had a 20 year run teaching bible lessons to middle school students (some say they still haven't quit). You'll often find them volunteering in the nursery, teaching a bible study, or bringing a dish to a friend in need.
 

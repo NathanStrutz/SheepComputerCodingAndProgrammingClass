@@ -1,7 +1,3 @@
-<script setup>
-    import HowManyYearsAgo from "./components/HowManyYearsAgo.vue";
-</script>
-
 # AI Policy
 
 ###### Every SHEEP class has an AI policy.
