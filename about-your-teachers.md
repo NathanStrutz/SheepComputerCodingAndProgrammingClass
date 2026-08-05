@@ -24,13 +24,15 @@ Nathan was born at a young age, and quickly thereafter found Jesus and computers
 
 Nathan started teaching _Intro to Coding_ at SHEEP in 2020, which we now call _Computer Coding & Programming_. He also teaches _[Computer Fundamentals](https://computer-fundamentals.sheep.fyi/)_ and _[Computer Science](https://computer-science.sheep.fyi/)_ during 1st and 2nd period.
 
+<div style="clear:both;"></div>
+
 ## Alanda
 
 _It's pronounced like "Amanda" but with an "L"_
 
 <img src="/i/alanda-4-5.jpg" alt="Alanda" class="profile-photo">
 
-Alanda has spent her professional life in real estate, insurance, and missions, but started teaching at SHEEP in 2018 when she became impassioned about teaching young people the most important lessons at the most critical point of their life - how to succeed at life before adulthood. It's a labor of love, and she loves deeply. She also teaches the Public Speaking and Consumer Math class.
+Alanda has spent her professional life in real estate, insurance, and missions, but started teaching at SHEEP in 2018 when she became impassioned about teaching young people the most important lessons at the most critical point of their life - how to succeed at life before adulthood. It's a labor of love, and she loves deeply. She also teaches the Public Speaking and Consumer Math classes in addition to _Computer Fundamentals_ and _Computer Science_ with Nathan.
 
 In 2016, Alanda started a nonprofit missions organization, [Precious Ones Ministries](https://www.preciousonesministries.org/), which provides hope to people in need through education, nutrition, and bibles!
 
