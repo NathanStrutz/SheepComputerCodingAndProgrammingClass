@@ -10,14 +10,18 @@
     "preview": "vitepress preview"
   },
   "devDependencies": {
-    "vitepress": "^1.6.4",
-    "wrangler": "^4.107.0"
+    "vitepress": "^2.0.0-alpha.19",
+    "wrangler": "^4.118.0"
   },
   "dependencies": {
-    "vue": "^3.5.39"
+    "vue": "^3.5.40"
   },
   "prettier": {
     "bracketSameLine": true,
     "printWidth": 140
+  },
+  "allowScripts": {
+    "workerd@1.20260730.1": true,
+    "esbuild@0.28.1": true
   }
 }
