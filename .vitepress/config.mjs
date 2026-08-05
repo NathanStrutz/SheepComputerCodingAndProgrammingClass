@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Coding & Programming",
-  description: "Parents and Students Guide",
+  description: "Parents and Students guide to SHEEP Computer Coding and Programming class in Summerville, SC",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
