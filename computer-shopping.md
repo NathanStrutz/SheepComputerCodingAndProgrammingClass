@@ -50,7 +50,6 @@ Determines how well the computer can render pixels in a game or run a local AI L
 
 - Gaming isn't significant for our class, so any built-in GPU that comes with the CPU ("Intel HD" series or "AMD Raden E" series) is good enough.
 - GPUs are a significant cost center for PCs, but if you want the computer to play games, get a Nvidia RTX or Radeon RX series GPU.
-- We will be running local AI for this class, but it's OK if it runs slowly.
 
 ### Accessories
 
