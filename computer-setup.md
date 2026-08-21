@@ -20,11 +20,23 @@ Throughout the year, we will install programs on this computer. You may get a gl
 
 ## What Online Accounts Will Be Made?
 
-As you know, online tools always require accounts. This is critical to using applications such as Google Docs. We will do our best to form good password practices when required, and to alert parents ahead of time.
+This class requires two accounts:
 
-The primary account you need is a Google account for Google Classroom, which will also open up access to Google Drive, Docs, Sheets, Slides, Gmail, Gemini, and more.
+- Google - for Google Classroom and occasional communication through GMail
+- GitHub - a Microsoft company where we will store code and serve a website from
+
+- [GitHub](https://www.github.com/) (code storage, website hosting)
 
 We may also create an account on these websites:
 
-- [GitHub](https://www.github.com/) (code storage, website hosting)
-- [Typing Club](https://www.typingclub.com/) (optional, for typing practice)
+- [Typing Club](https://www.typingclub.com/) (for typing practice)
+- [Nitro Type](https://www.nitrotype.com/) (for typing practice)
+
+## What Websites Will be Visited?
+
+It's common for us to see Microsoft Family Safety whitelisting known websites and blocking some that we need for class. If you use a web filtering product like that (and it's a great idea to do so), make sure to add these sites to the allowed list:1
+
+- [Google - everything](https://www.google.com/) - we will use Google Search, Classroom, GMail, and probably more. Sometimes students find helpful programming videos on Youtube
+- [Typing Club](https://www.typingclub.com/)
+- [Nitro Type](https://www.nitrotype.com/)
+- [This website, sheep.fyi](https://sheep.fyi/)
